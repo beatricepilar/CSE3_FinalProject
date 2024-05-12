@@ -3,7 +3,7 @@
 ### Steps:
 1. Open terminal and clone repository: 
    
-    git clone https://github.com/beatricepilar/CSE3_FinalProject.git or gh repo clone beatricepilar/CSE3_FinalProject
+    'git clone https://github.com/beatricepilar/CSE3_FinalProject.git' or 'gh repo clone beatricepilar/CSE3_FinalProject'
    
 3. Install dependencies: 
    
