@@ -1,12 +1,16 @@
 # CSE3 Final Project
 
 ### Steps:
-1. Install dependencies: 
+1. Open terminal and clone repository: 
+   
+    git clone https://github.com/beatricepilar/CSE3_FinalProject.git or gh repo clone beatricepilar/CSE3_FinalProject
+   
+3. Install dependencies: 
    
     `pip install -r requirements.txt`
 
 
-2. Run/Create Visualization HTML: 
+4. Run/Create Visualization HTML: 
 
      `python main.py`
 
